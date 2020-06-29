@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Auther: Hui-Yu Huang (purelyvivid@gmail.com, NCTU) 2020/06
+Author: Hui-Yu Huang (purelyvivid@gmail.com, NCTU) 2020/06
 
 First-Order-Model[1] (NIPS 19), an advanced image animation approach by unsupervised key point detection, has shown extraordinary capability in sparse motion transformation. However, number of key points is a preset hyperparameter and key points learn independently on each heatmaps.
 
